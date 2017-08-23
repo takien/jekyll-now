@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 name: takien
-description: WordPress developer
+description: WordPress developer test
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 footer-links:
   dribbble: 
